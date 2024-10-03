@@ -1,12 +1,7 @@
 
-Welcome to the Weather App project, a dynamic web application designed to provide real-time weather information at your fingertips. This project was developed as part of the internship at BharatIntern, employing a tech stack comprising HTML, CSS, Bootstrap, and JavaScript.
-
-Weather App Live Demo [link here](https://sanket-santoki.github.io/BharatIntern_WeatherApp/)
+Welcome to the Weather App project, a dynamic web application designed to provide real-time weather information at your fingertips.employing a tech stack comprising HTML, CSS, Bootstrap, and JavaScript.
 
 I used API keys from this [link](https://openweathermap.org/)
-
-Github Profile [link](https://github.com/sanket-santoki/)
-
 ![app](assets/weatherApp1.png) 
 ![app](assets/weatherApp2.png)
 
@@ -31,7 +26,6 @@ Bootstrap
 JavaScript
 
 # Credits:
-Developed by Sanket Santoki
-Internship at BharatIntern
+Developed by Prince kumar 
 
 Thank you for checking out our Weather App project. Stay informed, stay connected!
